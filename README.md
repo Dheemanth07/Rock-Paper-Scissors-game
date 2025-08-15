@@ -1,4 +1,4 @@
-# ✊🖐️✌️ Rock Paper Scissors — Advanced Functions
+# ✊🖐️✌️ Rock Paper Scissors
 
 A fun and interactive **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**, featuring score tracking, auto-play mode, and persistent data using `localStorage`.
 
